@@ -16,7 +16,7 @@ Enterprise Architecture (EA) has always been the bridge between business strateg
 
 ## From Enterprise Architecture to AI-Powered Enterprise Architecture
 
-![From Enterprise Architecture to AI-Powered Enterprise Architecture](images/from-ea-to-ai-powered-ea.png)
+![From Enterprise Architecture to AI-Powered Enterprise Architecture](images/from-ea-to-ai-powered-ea.jpg)
 
 Traditional Enterprise Architecture translates business strategy into a chain of business processes, information & data, and technology systems, delivered ultimately to employees, partners, and customers. AI-powered Enterprise Architecture keeps that exact same chain — but makes every link in it intelligent.
 
@@ -35,7 +35,7 @@ Traditional Enterprise Architecture translates business strategy into a chain of
 
 ## Enterprise Architecture With AI as Strategy
 
-![Enterprise Architecture With AI as Strategy](images/ea-with-ai-as-strategy.png)
+![Enterprise Architecture With AI as Strategy](images/ea-with-ai-as-strategy.jpg)
 
 Enterprise Architecture is not primarily a technical discipline, but a strategic management tool that enables organizations to execute their business strategy effectively. Enterprise Architecture is a shared logic for business processes, information, digital capabilities, and technology across the enterprise.
 
@@ -79,7 +79,7 @@ Enterprise Architecture with AI as Strategy provides the structure that enables 
 
 ## Operating Models
 
-![Four Operating Models](images/four-operating-models.png)
+![Four Operating Models](images/four-operating-models.jpg)
 
 The core of Enterprise Architecture is the concept of the **Operating Model**, which defines the level of process integration and standardization required to support a company's business strategy.
 
@@ -124,7 +124,7 @@ Regardless of which operating model is chosen, five principles apply across the 
 
 ## Foundation for Strategic Execution
 
-![Foundation for Strategic Execution](images/foundation-for-strategic-execution.png)
+![Foundation for Strategic Execution](images/foundation-for-strategic-execution.jpg)
 
 Enterprise Architecture is the organizing logic for business processes and technology capabilities, reflecting the organization's **Target Operating Model (TOM)**.
 
@@ -177,7 +177,7 @@ These capabilities draw on four pillars converging into one reusable capability 
 
 ## Governance & Alignment
 
-![Governance & Alignment](images/governance-and-alignment-cycle.png)
+![Governance & Alignment](images/governance-and-alignment-cycle.jpg)
 
 Governance is essential for strategic execution and for sustaining Enterprise Architecture. It establishes the guardrails, decision rights, and accountability needed to align initiatives with enterprise-wide goals and maximize long-term business value.
 
